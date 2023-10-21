@@ -1,4 +1,4 @@
-# Quasar App (quasar-app)
+# Quasar App (quasar-app) [![Netlify Status](https://api.netlify.com/api/v1/badges/8a983e0c-decf-4698-a53f-e02265157378/deploy-status)](https://app.netlify.com/sites/silverandgold-todolist/deploys)
 
 A Quasar Project
 
