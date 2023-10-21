@@ -16,7 +16,7 @@
         <div class="text-subtitle1">{{ getCurrentDate }}</div>
       </div>
       <q-img
-        src="src/assets/statics/silver_and_golden.jpg"
+        src="~assets/statics/silver_and_golden.jpg"
         class="header-image absolute-top"
       />
     </q-header>
@@ -51,10 +51,10 @@
         </q-list>
       </q-scroll-area>
 
-      <q-img class="absolute-top" src="src/assets/statics/silver_and_golden_sunlight.png" style="height: 192px">
+      <q-img class="absolute-top" src="~assets/statics/silver_and_golden_sunlight.png" style="height: 192px">
         <div class="absolute-bottom bg-transparent">
           <q-avatar size="56px" class="q-mb-sm">
-            <img src="src/assets/statics/silver_and_golden_medieval_warriors.png">
+            <img src="~assets/statics/silver_and_golden_medieval_warriors.png">
           </q-avatar>
           <div class="text-weight-bold">Silver & Golden</div>
           <div>@silverandgolden</div>

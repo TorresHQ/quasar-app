@@ -7,7 +7,7 @@
           <q-item>
             <q-item-section avatar>
               <q-avatar>
-                <img src="src/assets/statics/silver_avatar.jpg">
+                <img src="~assets/statics/silver_avatar.jpg">
               </q-avatar>
             </q-item-section>
 
@@ -40,7 +40,7 @@
           <q-item>
             <q-item-section avatar>
               <q-avatar>
-                <img src="src/assets/statics/golden_avatar.jpg">
+                <img src="~assets/statics/golden_avatar.jpg">
               </q-avatar>
             </q-item-section>
 
